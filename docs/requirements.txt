@@ -3,3 +3,4 @@ bitshares
 autobahn>=0.14
 pycryptodome==3.4.6
 appdirs==1.4.0
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
